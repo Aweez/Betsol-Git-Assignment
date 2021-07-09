@@ -1,4 +1,3 @@
-This is dummy text.
-Nice to work with you.
-
-Hi man, your great!
+Making changes in HelloWorld.txt file.
+This change is made in the D-MohamedAweezAkram branch.
+I've replaced the text to simulate conflicts.
